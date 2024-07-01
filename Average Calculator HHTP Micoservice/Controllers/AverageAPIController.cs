@@ -51,7 +51,7 @@ namespace AverageCalculatorApi.Controllers
             try
             {
                 httpClient.DefaultRequestHeaders.Authorization = new AuthenticationHeaderValue("Bearer", "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJNYXBDbGFpbXMiOnsiZXhwIjoxNzE5ODE0NjQwLCJpYXQiOjE3MTk4MTQzNDAsImlzcyI6IkFmZm9yZG1lZCIsImp0aSI6IjQ3N2Q4NWQzLTE0NGEtNGMyNi04YjVlLTM0ZmUyNDAzZjE5YiIsInN1YiI6InN1cHNoaXY3MjUwQGdtYWlsLmNvbSJ9LCJjb21wYW55TmFtZSI6Ik1NTURVIiwiY2xpZW50SUQiOiI0NzdkODVkMy0xNDRhLTRjMjYtOGI1ZS0zNGZlMjQwM2YxOWIiLCJjbGllbnRTZWNyZXQiOiJ6YVN2UGNEdHF3Uk9QV0F0Iiwib3duZXJOYW1lIjoiU2hpdmFtIEt1bWFyIiwib3duZXJFbWFpbCI6InN1cHNoaXY3MjUwQGdtYWlsLmNvbSIsInJvbGxObyI6IjExMjEyNzY4In0.sto6KyvS5MBABS4d7EanzTI_r2FbC1D7vhtSBJI07o8");
-                var response = await httpClient.GetAsync($"http://20.244.56.144/test/{numberid}"); // Replace with the actual API URL
+                var response = await httpClient.GetAsync($"http://20.244.56.144/test/{numberid}"); // Fetching with the actual API URL
                 response.EnsureSuccessStatusCode();
                 var content = await response.Content.ReadAsStringAsync();
                 var numbersResponse = JsonConvert.DeserializeObject<NumbersResponse>(content);

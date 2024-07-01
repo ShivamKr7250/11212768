@@ -1,0 +1,6 @@
+@Top_Products_HHTP_Microservice_HostAddress = http://localhost:5226
+
+GET {{Top_Products_HHTP_Microservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

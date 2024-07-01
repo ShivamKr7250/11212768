@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Top Products HHTP Microservice.props" />
+</Project>

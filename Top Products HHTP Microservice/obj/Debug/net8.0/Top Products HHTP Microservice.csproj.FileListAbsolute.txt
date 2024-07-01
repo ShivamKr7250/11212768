@@ -1,0 +1,37 @@
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\Top Products HHTP Microservice.csproj.AssemblyReference.cache
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\Top Products HHTP Microservice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\Top Products HHTP Microservice.AssemblyInfoInputs.cache
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\Top Products HHTP Microservice.AssemblyInfo.cs
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\Top Products HHTP Microservice.csproj.CoreCompileInputs.cache
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\Top Products HHTP Microservice.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\Top Products HHTP Microservice.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\appsettings.json
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\Top Products HHTP Microservice.exe
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\Top Products HHTP Microservice.deps.json
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\Top Products HHTP Microservice.runtimeconfig.json
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\Top Products HHTP Microservice.dll
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\Top Products HHTP Microservice.pdb
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\System.Net.Http.Formatting.dll
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\System.Web.Http.dll
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\Newtonsoft.Json.Bson.dll
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\RestSharp.dll
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\staticwebassets\msbuild.Top Products HHTP Microservice.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\staticwebassets\msbuild.build.Top Products HHTP Microservice.props
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Top Products HHTP Microservice.props
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Top Products HHTP Microservice.props
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\scopedcss\bundle\Top Products HHTP Microservice.styles.css
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\Top Prod.4F45017B.Up2Date
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\Top Products HHTP Microservice.dll
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\refint\Top Products HHTP Microservice.dll
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\Top Products HHTP Microservice.pdb
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\Top Products HHTP Microservice.genruntimeconfig.cache
+C:\Users\supsh\source\repos\Top Products HHTP Microservice\obj\Debug\net8.0\ref\Top Products HHTP Microservice.dll

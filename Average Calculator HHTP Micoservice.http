@@ -1,0 +1,6 @@
+@Average_Calculator_HHTP_Micoservice_HostAddress = http://localhost:5118
+
+GET {{Average_Calculator_HHTP_Micoservice_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

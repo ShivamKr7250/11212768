@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\supsh\\source\\repos\\Top Products HHTP Microservice\\Top Products HHTP Microservice.csproj": {}
+    "E:\\Placement\\Afford Medical Test\\Top Products HHTP Microservice\\Top Products HHTP Microservice.csproj": {}
   },
   "projects": {
-    "C:\\Users\\supsh\\source\\repos\\Top Products HHTP Microservice\\Top Products HHTP Microservice.csproj": {
+    "E:\\Placement\\Afford Medical Test\\Top Products HHTP Microservice\\Top Products HHTP Microservice.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\supsh\\source\\repos\\Top Products HHTP Microservice\\Top Products HHTP Microservice.csproj",
+        "projectUniqueName": "E:\\Placement\\Afford Medical Test\\Top Products HHTP Microservice\\Top Products HHTP Microservice.csproj",
         "projectName": "Top Products HHTP Microservice",
-        "projectPath": "C:\\Users\\supsh\\source\\repos\\Top Products HHTP Microservice\\Top Products HHTP Microservice.csproj",
+        "projectPath": "E:\\Placement\\Afford Medical Test\\Top Products HHTP Microservice\\Top Products HHTP Microservice.csproj",
         "packagesPath": "C:\\Users\\supsh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\supsh\\source\\repos\\Top Products HHTP Microservice\\obj\\",
+        "outputPath": "E:\\Placement\\Afford Medical Test\\Top Products HHTP Microservice\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

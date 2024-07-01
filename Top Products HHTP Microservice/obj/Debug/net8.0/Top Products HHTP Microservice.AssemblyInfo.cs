@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Top Products HHTP Microservice")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49b83a730909cd779eac57e2d1099dabe599f5c4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Top Products HHTP Microservice")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Top Products HHTP Microservice")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
